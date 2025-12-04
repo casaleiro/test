@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from npm install lucide-react"react";
+import React, { useState } from "react";
 import { Layout, PlusCircle, AlertCircle } from "lucide-react"; // Ícones para o empty state
 import SpaceHeader from "./_components/SpaceHeader";
 import VerticalCalendar from "./_components/VerticalCalendar";
