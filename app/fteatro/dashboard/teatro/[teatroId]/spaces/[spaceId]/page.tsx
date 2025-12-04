@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Layout, PlusCircle, AlertCircle } from "lucide-react"; // Ícones para o empty state
+import { Layout, PlusCircle } from "lucide-react"; // Ícones para o empty state
 import SpaceHeader from "./_components/SpaceHeader";
 import VerticalCalendar from "./_components/VerticalCalendar";
 import MonthCalendar from "./_components/MonthCalendar";
